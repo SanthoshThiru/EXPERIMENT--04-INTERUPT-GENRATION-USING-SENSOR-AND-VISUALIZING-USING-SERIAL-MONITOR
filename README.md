@@ -161,11 +161,6 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 ## Output screen shots of serial port utility   :
  ![image](https://github.com/user-attachments/assets/7a95129e-3629-4f2a-a599-460d2f615128)
 
- 
- ## Circuit board :
- 
- ![image](https://github.com/user-attachments/assets/f99c2af1-7df0-4a36-96ba-806786b50c15)
-
- 
+  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
